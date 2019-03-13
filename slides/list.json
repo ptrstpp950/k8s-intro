@@ -2,6 +2,7 @@
     "index.md",
     "ja.md",
     [
+        "02-quiz/00-rules.md",
         "02-quiz/01-rules.md",
         "02-quiz/02-example.md",
         "02-quiz/02-quiz.1.md",
@@ -14,6 +15,12 @@
         "02-quiz/02-quiz.8.md"
     ],
     [
+        "03-dotnet/00-dotnet.md",
+        "03-dotnet/01-dotnet.md",
+        "03-dotnet/02-dotnet.md",
+        "03-dotnet/03-komunikacja.md"
+    ],
+    [
         "01-ja/00-definitions.md",
         "01-ja/01-definitions.md",
         "01-ja/02-definitions.md",
@@ -24,14 +31,16 @@
         "01-ja/07-definitions.md"
 
     ],
+    
     [
-        "03-k8s/01-k8s.md",
-        "03-k8s/02-k8s.md",
-        "03-k8s/03-k8s.md",
-        "03-k8s/04-k8s.md",
-        "03-k8s/05-k8s.md",
-        "03-k8s/06-k8s.md",
-        "03-k8s/07-k8s.md"
+        "04-k8s/00-k8s.md",
+        "04-k8s/01-k8s.md",
+        "04-k8s/02-k8s.md",
+        "04-k8s/03-k8s.md",
+        "04-k8s/04-k8s.md",
+        "04-k8s/05-k8s.md",
+        "04-k8s/06-k8s.md",
+        "04-k8s/07-k8s.md"
     ],
     "end.md"
 ]

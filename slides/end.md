@@ -8,7 +8,6 @@
 **Zapisy** <!-- .element: style="color:white" -->
 
 ## **https://kurskubernetes.pl<!-- .element: style="color:white; font-size:bigger;" --> ** 
-## **https://kursK8S.pl<!-- .element: style="color:white; font-size:bigger;" --> ** 
 
 <aside class="notes">
 Reklama :D

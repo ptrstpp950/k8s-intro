@@ -1,6 +1,7 @@
+<!-- .slide: data-background="./resources/img/back-me.png" -->
 # Me, myself & I
 - Tata bliźniaków, mąź, szef stada dla psa i kota(?)
-- Head architect w Finai
+- Head architect w FinAi
 - CEO Dotnetomaniaka
 - VP w devWarsztatach
 - Microsoft MVP
